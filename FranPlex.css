@@ -1,0 +1,26 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/GBU.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 800px}
+.u-section-1 .u-btn-1 {background-image: none; font-weight: 700; margin: 29px auto 0 0}
+.u-section-1 .u-btn-2 {background-image: none; font-weight: 700; margin: 31px auto 0 0}
+.u-section-1 .u-btn-3 {background-image: none; font-weight: 700; margin: 31px auto 0 1px}
+.u-section-1 .u-btn-4 {background-image: none; font-weight: 700; margin: 31px auto 0 0}
+.u-section-1 .u-btn-5 {background-image: none; font-weight: 700; margin: 31px auto 0 1px}
+.u-section-1 .u-btn-6 {background-image: none; font-weight: 700; margin: 39px auto 0 3px}
+.u-section-1 .u-btn-7 {background-image: none; font-weight: 700; margin: 31px auto 0 0}
+.u-section-1 .u-btn-8 {background-image: none; font-weight: 700; margin: 39px auto 60px 1px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 660px}
+.u-section-1 .u-btn-1 {background-color: rgb(152, 118, 55) !important; color: white !important}
+.u-section-1 .u-btn-3 {margin-left: 0}
+.u-section-1 .u-btn-5 {margin-left: 0}
+.u-section-1 .u-btn-6 {margin-left: 0}
+.u-section-1 .u-btn-8 {margin-left: 0} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 506px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 380px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 239px}
+.u-section-1 .u-btn-1 {margin-left: 118px}
+.u-section-1 .u-btn-2 {margin-left: 113px}
+.u-section-1 .u-btn-3 {margin-left: 113px} }
